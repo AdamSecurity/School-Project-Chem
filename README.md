@@ -9,5 +9,7 @@ This app help people to understand chemistry very easy
 * get percentage by mass
 
 ## How i can use it
+```bash
 $ pip install chemlib
 $ python3 School-Project-Chem
+```
