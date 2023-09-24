@@ -2,4 +2,5 @@
 This app help people to understand chemistry very easy
 
 # How do I benefit from this?
-### This application has many benefits, including:
+This application has many benefits, including:
+1 balancing the chemical formula
